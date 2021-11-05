@@ -1,0 +1,35 @@
+----------------------------
+  JavaScript Final
+----------------------------
+Instructions:  
+
+Using the files contained in this zip file, implement solutions for the questions below.  Each question has a folder associated with it
+containing the file where you will write your code, and a second file that contains the Jasmine tests relevant to that question.
+               
+Question folders are as follows:
+1. sorting
+2. stack
+3. linked-list
+
+All tests can be run by opening test.html in your browser.  If you want to comment out some tests to make it easier to focus on the question that you are
+working on, you are more than welcome to do so.  Other than commenting, do not modify the tests in any way.
+
+1.  Using any sorting algorithm of your choice, write a function called 'sort' that takes an array of numbers and 
+    returns a array of numbers sorted in ascending order
+
+    Example:  function sort([3, 5, 1, 7, 5]) ==> [1, 3, 5, 5, 7]
+
+-----------------------------------------------------------------------------------------------------------------------------
+The following two questions focus on debugging.  When you get into the industry, you do not always get to work on your own
+code; in fact you will probably spend equal time writing new code as you will fixing/maintaining code written by someone
+else, possibly with a differing code style.
+
+Isolate test suites by commenting out sections of the tests that you aren't focusing on while you fix other pieces, one
+test at a time.  Use the debugging tools of the browser (set breakpoints, use the console to check values of variables, and
+look for errors) to help you find where the bugs in the code are.
+-----------------------------------------------------------------------------------------------------------------------------
+
+2.  A broken implementation of a Stack has been provided along with tests. Fix the code so that all of test pass.
+
+
+3.  A broken implementation of a Linked List has been provided along with tests. Fix the code so that all of test pass.
